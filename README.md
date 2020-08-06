@@ -1,1 +1,1 @@
-# CodeWars-7kyu-solved
+# codewars solved 7kyu difficulty katas
