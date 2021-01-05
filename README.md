@@ -1,1 +1,1 @@
-# Codewars solved katas by difficulty.
+# Codewars solved katas sorted by difficulty.
